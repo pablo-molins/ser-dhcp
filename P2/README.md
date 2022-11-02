@@ -24,7 +24,7 @@ Si todo hubiera ido bien, nos mostrará un status correcto. En caso de fallo en 
 
 ## Comprobaciones
 
-Podemos comprobar que la práctica se ha realizado correctamente aplicando lo mismo que se cuenta en la [P1](../P1/instrucciones.md).
+Podemos comprobar que la práctica se ha realizado correctamente aplicando lo mismo que se cuenta en la [P1](../P1/README.md).
 
 Además, podemos utilizar el comando 
 
